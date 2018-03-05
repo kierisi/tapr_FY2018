@@ -28,6 +28,8 @@ Student mobility data was pulled from the [preliminary TAPR dataset](https://rpt
 
 As outlined in the workspace_setup.R file:
 ```
+library(magrittr)
+library(here)
 library(tidyverse)
 library(stringr)
 ```
