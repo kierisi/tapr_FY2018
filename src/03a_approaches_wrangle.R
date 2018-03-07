@@ -1,4 +1,7 @@
+# probably don't need two separate files
 
+
+### We don't do/need any of the below - don't use individual grade levels.
 # creating initial dataset ------------------------------------------------
 # Create a tibble from the 'approaches' dataset, using only the columns needed
 staar_complt <- approaches[c("CAMPUS",
